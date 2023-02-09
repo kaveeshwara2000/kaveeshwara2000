@@ -1,5 +1,5 @@
 ### Hi there 👋
-[IJSE]([https://pages.github.com/](https://www.ijse.lk/))
+Visit [IJSE](https://www.ijse.lk/).
 <!--
 **kaveeshwara2000/kaveeshwara2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
