@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sachindu Kaveeshwara</h1>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=ebbd34&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'm++Full++Stack++developer++From++Sri++Lanka...;Software+Designer...;Developer...;UI%2FUX++Designer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=017807&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'm++Full++Stack++developer++From++Sri++Lanka...;Software+Designer...;Developer...;UI%2FUX++Designer...;)](https://git.io/typing-svg)
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveeshwara2000&label=Profile%20views&color=0e75b6&style=flat" alt="kaveeshwara2000" /> </p>
